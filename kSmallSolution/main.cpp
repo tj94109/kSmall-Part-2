@@ -37,4 +37,25 @@ int main() {
     delete test;
   }
   cout << "par avg score: " << scoreAverage << '\n';
+
+  arrayTracker* test2 = new arrayTracker(10);
+
+  test2->setItem(0,55);
+  test2->setItem(1,53);
+  test2->setItem(2,51);
+  test2->setItem(3,49);
+  test2->setItem(4,47);
+  test2->setItem(5,8);
+  test2->setItem(6,7);
+  test2->setItem(7,6);
+  test2->setItem(8,8);
+  test2->setItem(9,60);
+
+  test2->displayArray();
+
+  ksmallSolution temp2;
+  cout << "\n temp2 " << temp2.kSmall(5,test2,0,test2->getSize()-1) << " \n";
+  test2->displayArray();
+
+
 }

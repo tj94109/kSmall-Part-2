@@ -37,10 +37,10 @@ string
 -
 
 /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.cpp
-ksmallSolution.h
-/home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.h
-arrayTracker.h
-/home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/arrayTracker.h
+ksmallSolution.hpp
+/home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.hpp
+arrayTracker.hpp
+/home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/arrayTracker.hpp
 
 /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.h
 arrayTracker.h

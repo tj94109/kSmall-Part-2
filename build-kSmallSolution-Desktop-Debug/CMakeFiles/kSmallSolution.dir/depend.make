@@ -7,9 +7,7 @@ CMakeFiles/kSmallSolution.dir/arrayTracker.cpp.o: /home/TJ/Documents/cPlusPlus/M
 CMakeFiles/kSmallSolution.dir/ksmallRuleChecker.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallRuleChecker.cpp
 CMakeFiles/kSmallSolution.dir/ksmallRuleChecker.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallRuleChecker.h
 
-CMakeFiles/kSmallSolution.dir/ksmallSolution.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/arrayTracker.h
 CMakeFiles/kSmallSolution.dir/ksmallSolution.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.cpp
-CMakeFiles/kSmallSolution.dir/ksmallSolution.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallSolution.h
 
 CMakeFiles/kSmallSolution.dir/ksmallTester.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/arrayTracker.h
 CMakeFiles/kSmallSolution.dir/ksmallTester.cpp.o: /home/TJ/Documents/cPlusPlus/M04/Homework/ksmallPart2/kSmallSolution/ksmallTester.cpp
